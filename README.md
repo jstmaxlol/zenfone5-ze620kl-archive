@@ -14,7 +14,7 @@ i also want to thanks [Conobi](https://github.com/Conobi), and his repo [Conobi/
 
 # files
 - twrp [(download)](https://github.com/jstmaxlol/zenfone5-ze620kl-archive/raw/refs/heads/master/twrp.img)
-- [^1] android 10 oem beta build [(download)](https://github.com/jstmaxlol/zenfone5-ze620kl-archive/raw/refs/heads/master/UL-ASUS_X00QD-ASUS-AOSP-17.0615.2005.25-1.1.1-user.zip), for more info on how i got this file see [this](#android-10-oem-beta-build)
+- android 10 oem beta build [(download)](https://github.com/jstmaxlol/zenfone5-ze620kl-archive/raw/refs/heads/master/UL-ASUS_X00QD-ASUS-AOSP-17.0615.2005.25-1.1.1-user.zip), for more info on how i got this file see [this](#android-10-oem-beta-build)
 
 ## android 10 oem beta build
 this android 10 beta build is very important because it's most likely the only way anyone (_after the shutdown_) \
