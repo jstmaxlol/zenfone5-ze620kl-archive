@@ -5,7 +5,7 @@ i made this repo because asus mostly killed mirrors and literally anything for t
 basically i got this phone off my brother and i wanted to have fun (_aka, mod it_). 
 
 after finding that most official mirrors to do literally ANYTHING with this brick are dead \
-i went digging and found the files found in this repo, in this readme ill quickly run down \
+i went digging and found the files collected in this repo, in this readme ill quickly run down \
 every file i put here so you can use them for your own modding purposes.
 
 i also want to thank [Conobi](https://github.com/Conobi), and his repo [Conobi/asus_x00qd_files](https://github.com/Conobi/asus_x00qd_files), thanks to which i was easily able to find: 
@@ -18,6 +18,7 @@ i also want to thank [Conobi](https://github.com/Conobi), and his repo [Conobi/a
 - (_i also plan on unzipping and uploading the contents of the build's zip file but for now please no_)
 
 ## android 10 oem beta build
+> this is **not** the stable android 10 release, but an early OEM beta build randomly linked in the zentalk forums.
 &nbsp;&nbsp;&nbsp;&nbsp; this android 10 beta build is very important because it's most likely the only way anyone (_after the shutdown_) \
 may be able to actually mod this phone. \
 &nbsp;&nbsp;&nbsp;&nbsp; i found it thanks to [this post](https://zentalk.asus.com/t5/zenfone-5-series/zenfone-5-ze620kl-unlock-bootloader-failed/td-p/109897) on the asus forums, where the user ErwinGau blessed us \
