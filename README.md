@@ -19,6 +19,7 @@ i also want to thank [Conobi](https://github.com/Conobi), and his repo [Conobi/a
 
 ## android 10 oem beta build
 > this is **not** the stable android 10 release, but an early OEM beta build randomly linked in the zentalk forums.
+
 &nbsp;&nbsp;&nbsp;&nbsp; this android 10 beta build is very important because it's most likely the only way anyone (_after the shutdown_) \
 may be able to actually mod this phone. \
 &nbsp;&nbsp;&nbsp;&nbsp; i found it thanks to [this post](https://zentalk.asus.com/t5/zenfone-5-series/zenfone-5-ze620kl-unlock-bootloader-failed/td-p/109897) on the asus forums, where the user ErwinGau blessed us \
