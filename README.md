@@ -43,5 +43,5 @@ archive, [(this one)](https://web.archive.org/web/20230721104032/https://dlcdnet
 #### legal note
 > The `LICENSE` file found in this repo applies only to this README (`README.md`), the repository layout, and any original scripts and/or documents.
 Anything else is owned by each respective owner, ASUS owns the binary for the UnlockApp (not technically present here, but i linked it) \
-Google, as part of Open Handset Alliance with its members, the Android Open Source Project and ASUS (build-specific modifications) collectively own the Android 10 OEM beta build i archived in this repo, originally hosted on the [asus.com](https://asus.com/) website.
+Google, as part of Open Handset Alliance with its members, the Android Open Source Project and ASUS (build-specific modifications) collectively own the Android 10 OEM beta build I archived in this repo, originally hosted on the [asus.com](https://asus.com/) website.
 
