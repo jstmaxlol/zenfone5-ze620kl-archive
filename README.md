@@ -12,7 +12,7 @@ every file i put here so you can use them for your own modding purposes.
 
 i also want to thank [Conobi](https://github.com/Conobi), and his repo [Conobi/asus_x00qd_files](https://github.com/Conobi/asus_x00qd_files), thanks to which i was easily able to find: 
 - (un?)official TWRP 3.3.0 [(mirror from his repo)](https://github.com/Conobi/asus_x00qd_files/raw/refs/heads/master/TWRP_3.3.0_ZE620KL_190428.img) image (`twrp.img`)
-- technically also the UnlockApp from asus, but the app does not work as they [killed the backend in](https://zentalk.asus.com/t5/zenfone-5-series/zenfone-5-ze620kl-unlock-bootloader-failed/m-p/109899/highlight/true#M4873) [around 2023-ish](https://www.reddit.com/r/Android/comments/15isa1l/asus_is_taking_back_the_ability_to_unlock_the/).
+- technically also the [UnlockApp](https://github.com/Conobi/asus_x00qd_files/raw/refs/heads/master/UnlockApp_ZE620KL_9_1_0_1_180130.apk) from asus, but the app does not work as they [killed the backend in](https://zentalk.asus.com/t5/zenfone-5-series/zenfone-5-ze620kl-unlock-bootloader-failed/m-p/109899/highlight/true#M4873) [around 2023-ish](https://www.reddit.com/r/Android/comments/15isa1l/asus_is_taking_back_the_ability_to_unlock_the/).
 
 # files
 - twrp [(download)](https://github.com/jstmaxlol/zenfone5-ze620kl-archive/raw/refs/heads/master/twrp.img)
@@ -39,4 +39,9 @@ archive, [(this one)](https://web.archive.org/web/20230721104032/https://dlcdnet
 - these files are preserved for educational and device recovery purposes.
 - all trademarks and copyrights belong to ASUS.
 - files are provided unmodified.
+
+#### legal note
+> The `LICENSE` file found in this repo applies only to this README (`README.md`), the repository layout, and any original scripts and/or documents.
+Anything else is owned by each respective owner, ASUS owns the binary for the UnlockApp (not technically present here, but i linked it) \
+Google, as part of Open Handset Alliance with its members, the Android Open Source Project and ASUS (build-specific modifications) collectively own the Android 10 OEM beta build i archived in this repo, originally hosted on the [asus.com](https://asus.com/) website.
 
