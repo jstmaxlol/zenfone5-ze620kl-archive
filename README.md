@@ -26,3 +26,6 @@ as i said, the link is now dead, but thanks to the _i cant thank them enough_ ak
 find the download link to the original zip file, [(download)](), **note that i _highly_ recommend downloading the build from \
 from this repo instead of that archive.org mirror because i (_with a 2.5 gigabit_) connection took around 6-7 (_dont say it_) \
 hours to complete the download.**
+also, whislt downloading with `aria2`, it crashed because it got an EOF, after that i restarted the same command to resume, \
+but the mirror kept refusing and sending EOF, because of that i was going insane and i tried the other mirror from the internet \
+archive, [(this one)](https://web.archive.org/web/20230721104032/https://dlcdnets.asus.com/pub/ASUS/ZenFone/ZE620KL/UL-ASUS_X00QD-ASUS-AOSP-17.0615.2005.25-1.1.1-user.zip), after resuming with this mirror it worked.
