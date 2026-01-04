@@ -1,4 +1,5 @@
 # asus zenfone 5 (2018-ish), ze620kl modding archive
+> bootloader unlock status: **testing in progress**
 > **note:** some files are still uploading
 
 i made this repo because asus mostly killed mirrors and literally anything for this phone \
@@ -28,7 +29,7 @@ the post linked to [this mirror](https://dlcdnets.asus.com/pub/ASUS/ZenFone/ZE62
 &nbsp;&nbsp;&nbsp;&nbsp; as i said, the link is now dead, but thanks to the _i cant thank them enough_ aka **internet archive** i was able to \
 find the download link to the original zip file, [(download)](https://web.archive.org/web/20200906162331if_/https://dlcdnets.asus.com/pub/ASUS/ZenFone/ZE620KL/UL-ASUS_X00QD-ASUS-AOSP-17.0615.2005.25-1.1.1-user.zip), **note that i _highly_ recommend downloading the build \
 from this repo instead of that archive.org mirror because i (_with a 2.5 gigabit_) connection took around 6-7 (_dont say it_) hours to complete the download.** \
-&nbsp;&nbsp;&nbsp;&nbsp; also, whilst downloading with `aria2`, it crashed because it got an EOF, after that i restarted the same command to resume, \
+&nbsp;&nbsp;&nbsp;&nbsp; also, whilst downloading with `aria2`, it crashed because it got an EOF, after that i simply re-ran the same command to resume, \
 but the mirror kept refusing and sending EOF, because of that i was going insane and i tried the other mirror from the internet \
 archive, [(this one)](https://web.archive.org/web/20230721104032/https://dlcdnets.asus.com/pub/ASUS/ZenFone/ZE620KL/UL-ASUS_X00QD-ASUS-AOSP-17.0615.2005.25-1.1.1-user.zip), after resuming with this mirror it worked.
 
