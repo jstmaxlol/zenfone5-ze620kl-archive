@@ -1,5 +1,6 @@
 # asus zenfone 5 (2018-ish), ze620kl modding archive
 > bootloader unlock status: **testing in progress**
+
 > **note:** some files are still uploading
 
 i made this repo because asus mostly killed mirrors and literally anything for this phone \
