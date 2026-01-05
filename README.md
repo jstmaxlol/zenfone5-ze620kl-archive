@@ -10,7 +10,7 @@ after finding that most official mirrors to do literally ANYTHING with this bric
 i went digging and found the files collected in this repo, in this readme ill quickly run down \
 every file i put here so you can use them for your own modding purposes.
 
-i also want to thank [Conobi](https://github.com/Conobi), and his repo [Conobi/asus_x00qd_files](https://github.com/Conobi/asus_x00qd_files), thanks to which i was easily able to find: 
+i also want to thank [Conobi](https://github.com/Conobi), and their repo [Conobi/asus_x00qd_files](https://github.com/Conobi/asus_x00qd_files), thanks to which i was easily able to find: 
 - (un?)official TWRP 3.3.0 [(mirror from his repo)](https://github.com/Conobi/asus_x00qd_files/raw/refs/heads/master/TWRP_3.3.0_ZE620KL_190428.img) image (`twrp.img`)
 - technically also the [UnlockApp](https://github.com/Conobi/asus_x00qd_files/raw/refs/heads/master/UnlockApp_ZE620KL_9_1_0_1_180130.apk) from asus, but the app does not work as they [killed the backend in](https://zentalk.asus.com/t5/zenfone-5-series/zenfone-5-ze620kl-unlock-bootloader-failed/m-p/109899/highlight/true#M4873) [around 2023-ish](https://www.reddit.com/r/Android/comments/15isa1l/asus_is_taking_back_the_ability_to_unlock_the/).
 
