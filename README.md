@@ -1,7 +1,5 @@
 # asus zenfone 5 (2018-ish), ze620kl modding archive
-> bootloader unlock status: **testing in progress**
-
-> **note:** some files are still uploading
+> bootloader unlock status: **testing in progress, android 10 boots**
 
 i made this repo because asus mostly killed mirrors and literally anything for this phone \
 basically i got this phone off my brother and i wanted to have fun (_aka, mod it_). 
@@ -17,7 +15,7 @@ i also want to thank [Conobi](https://github.com/Conobi), and their repo [Conobi
 # files
 - twrp [(download)](https://github.com/jstmaxlol/zenfone5-ze620kl-archive/raw/refs/heads/master/twrp.img)
 - android 10 oem beta build [(download)](https://github.com/jstmaxlol/zenfone5-ze620kl-archive/raw/refs/heads/master/UL-ASUS_X00QD-ASUS-AOSP-17.0615.2005.25-1.1.1-user.zip), for more info on how i got this file see [this](#android-10-oem-beta-build)
-- (_i also plan on unzipping and uploading the contents of the build's zip file but for now please no_)
+- the `decompressed_build/` directory is the entirety of the [android 10 oem beta build](#android-10-oem-beta-build) unzipped.
 
 ## android 10 oem beta build
 > this is **not** the stable android 10 release, but an early OEM beta build randomly linked in the zentalk forums.
