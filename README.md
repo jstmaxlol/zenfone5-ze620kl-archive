@@ -14,8 +14,8 @@ i also want to thank [Conobi](https://github.com/Conobi), and their repo [Conobi
 
 # files
 - twrp [(download)](https://github.com/jstmaxlol/zenfone5-ze620kl-archive/raw/refs/heads/master/twrp.img)
-- android 10 oem beta build [(download)](https://github.com/jstmaxlol/zenfone5-ze620kl-archive/raw/refs/heads/master/UL-ASUS_X00QD-ASUS-AOSP-17.0615.2005.25-1.1.1-user.zip), for more info on how i got this file see [this](#android-10-oem-beta-build)
-- the `decompressed_build/` directory is the entirety of the [android 10 oem beta build](#android-10-oem-beta-build) unzipped.
+- android 10 oem beta build [(download)](https://github.com/jstmaxlol/zenfone5-ze620kl-archive/releases/download/a10-beta-build-recvrd/UL-ASUS_X00QD-ASUS-AOSP-17.0615.2005.25-1.1.1-user.zip), for more info on how i got this file see [this](#android-10-oem-beta-build)
+<!--- the `decompressed_build/` directory is the entirety of the [android 10 oem beta build](#android-10-oem-beta-build) unzipped.-->
 
 ## android 10 oem beta build
 > this is **not** the stable android 10 release, but an early OEM beta build randomly linked in the zentalk forums.
