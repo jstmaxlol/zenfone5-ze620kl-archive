@@ -1,5 +1,5 @@
 # asus zenfone 5 (2018-ish), ze620kl modding archive
-> bootloader unlock status: **testing in progress, android 10 boots**
+> bootloader unlock status: **testing in progress, currently locked.**
 
 i made this repo because asus mostly killed mirrors and literally anything for this phone \
 basically i got this phone off my brother and i wanted to have fun (_aka, mod it_). 
@@ -31,6 +31,14 @@ from this repo instead of that archive.org mirror because i (_with a 2.5 gigabit
 &nbsp;&nbsp;&nbsp;&nbsp; also, whilst downloading with `aria2`, it crashed because it got an EOF, after that i simply re-ran the same command to resume, \
 but the mirror kept refusing and sending EOF, because of that i was going insane and i tried the other mirror from the internet \
 archive, [(this one)](https://web.archive.org/web/20230721104032/https://dlcdnets.asus.com/pub/ASUS/ZenFone/ZE620KL/UL-ASUS_X00QD-ASUS-AOSP-17.0615.2005.25-1.1.1-user.zip), after resuming with this mirror it worked.
+
+## download decompressed build
+```bash
+git lfs install
+git clone https://github.com/jstmaxlol/zenfone5-ze620kl-archive.git
+cd zenfone5-ze620kl-archive
+git lfs pull
+```
 
 ## archival note
 - no warranty is provided, the given files are not mine, i just found them and linked them here.
